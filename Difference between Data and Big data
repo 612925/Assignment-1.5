@@ -1,0 +1,11 @@
+Data: Being a very generic term "Data",is just raw facts which can be unstructured and structured data, Data Science is a field that 
+comprises of everything that we do with the data i.e, conversion into information, storage and analysis.
+-Very hard to analyze with traditional techniques. 
+-Comparatively decision made is less accurate.
+-Cost of scaling is high and hard.
+Big Data: Big Data refers to huge volumes of data that cannot be processed effectively with the traditional applications that exist. 
+Big Data is something that can be used to analyze insights which can lead to 
+-Easy to analyze as a framework does the job for you.
+-better decision and strategic business moves.
+-Cost to scaling is cheap and easy.
+-Managing is done by the framework(e.g hadoop)
