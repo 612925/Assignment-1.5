@@ -1,0 +1,7 @@
+Major complexities of data explosion are:
+1. Storage Problem-hadoop overcomes this by using multiple systems(HDFS) for storing data instead of scaling vertically on a single instance.
+2. Analyzing: Hadoop uses a technique called MapReduce for processing the distributed data.
+Major complexities of Horizontal scaling:
+1. Hardware problems: Hadoop has data redundancy for handling system failures and fast processing.
+2. Management problems: Hadoop handles all the systems in the distributed system, turning them off/on and 
+maintaining them to get best results.
